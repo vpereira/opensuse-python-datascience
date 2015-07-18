@@ -1,6 +1,8 @@
 # opensuse-python-datascience
 
-openSUSE 13.2 container with all python tools for data science.
+openSUSE 13.2 docker image with all python tools for data science. It's goal is to run locally, to avoid to install stuffs in your host. If you want to expose it as a service, there are better images on dockerhub (with TLS and password support). 
+
+## Status: Maintained
 
 The container has the following components installed:
 
